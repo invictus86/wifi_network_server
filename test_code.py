@@ -43,4 +43,5 @@ for radio in radios:
     else:
         print("没有被选中", is_selected)
 time.sleep(5)
+
 driver.quit()

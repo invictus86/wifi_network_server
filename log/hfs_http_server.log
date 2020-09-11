@@ -1,0 +1,9 @@
+2020-09-11 10:38:09,957 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:/Users/ivan.zhao/PycharmProjects/wifi_network_server\./images/HFS.png)
+2020-09-11 10:38:10,408 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:/Users/ivan.zhao/PycharmProjects/wifi_network_server\./images/HFS_menu.png)
+2020-09-11 10:38:12,156 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:/Users/ivan.zhao/PycharmProjects/wifi_network_server\./images/HFS_ip_address.png)
+2020-09-11 10:38:13,974 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:/Users/ivan.zhao/PycharmProjects/wifi_network_server\./images/HFS_speed_external_ip.png)
+2020-09-11 10:38:14,792 - C:/Users/ivan.zhao/PycharmProjects/wifi_network_server/hfs_http_server.py[line:104] - INFO: set_hfs_external_network success

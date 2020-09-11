@@ -1,0 +1,93 @@
+2020-09-11 10:39:53,973 - C:/Users/ivan.zhao/PycharmProjects/wifi_network_server/wifi_chrome.py[line:167] - INFO: set_wifi_ap_on success
+2020-09-11 11:02:41,379 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:36] - INFO: set_parameter_wep success
+2020-09-11 11:03:27,884 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:36] - INFO: set_parameter_wep success
+2020-09-11 11:03:53,585 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:57] - INFO: set_parameter_wpa success
+2020-09-11 11:04:19,648 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:78] - INFO: set_parameter_wpa2 success
+2020-09-11 11:04:44,566 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:99] - INFO: set_parameter_wpa_wpa2 success
+2020-09-11 11:05:15,120 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:122] - INFO: set_parameter_802_11n success
+2020-09-11 11:05:44,290 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:145] - INFO: set_parameter_802_11b_g success
+2020-09-11 11:06:07,398 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:167] - INFO: set_wifi_ap_on success
+2020-09-11 11:06:34,449 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:194] - INFO: set_wifi_ap_off fail
+2020-09-11 11:07:19,303 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:191] - INFO: set_wifi_ap_off success
+2020-09-11 11:07:47,221 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:191] - INFO: set_wifi_ap_off success
+2020-09-11 11:10:52,555 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:167] - INFO: set_wifi_ap_on success
+2020-09-11 11:11:16,694 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:191] - INFO: set_wifi_ap_off success
+2020-09-11 11:23:12,652 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:191] - INFO: set_wifi_ap_off success
+2020-09-11 11:23:34,732 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:196] - INFO: set_wifi_ap_off fail
+2020-09-11 11:25:19,546 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:193] - INFO: set_wifi_ap_off success
+2020-09-11 11:33:09,904 - C:/Users/ivan.zhao/PycharmProjects/wifi_network_server/wifi_chrome.py[line:36] - INFO: set_parameter_wep success
+2020-09-11 11:34:03,853 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:193] - INFO: set_wifi_ap_off success
+2020-09-11 11:34:53,673 - C:/Users/ivan.zhao/PycharmProjects/wifi_network_server/wifi_chrome.py[line:193] - INFO: set_wifi_ap_off success
+2020-09-11 14:58:53,110 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\hfs_http_server.py[line:48] - INFO: set_hfs_limit fail
+2020-09-11 14:58:53,437 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\hfs_http_server.py[line:48] - INFO: set_hfs_limit fail
+2020-09-11 14:58:53,761 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\hfs_http_server.py[line:48] - INFO: set_hfs_limit fail
+2020-09-11 14:58:54,083 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\hfs_http_server.py[line:106] - INFO: set_hfs_external_network fail
+2020-09-11 14:58:54,404 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\hfs_http_server.py[line:69] - INFO: set_hfs_switch_off fail
+2020-09-11 14:58:54,729 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\hfs_http_server.py[line:91] - INFO: set_hfs_switch_on fail
+2020-09-11 14:59:20,095 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:36] - INFO: set_parameter_wep success
+2020-09-11 14:59:28,065 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS.png)
+2020-09-11 14:59:28,554 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_menu.png)
+2020-09-11 14:59:30,374 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_limits.png)
+2020-09-11 14:59:32,221 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_speed_limit.png)
+2020-09-11 14:59:35,436 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\hfs_http_server.py[line:46] - INFO: set_hfs_limit success
+2020-09-11 14:59:35,759 - C:\Python36\lib\site-packages\airtest\core\api.py[line:36] - WARNING: Device:None updated <airtest.core.win.win.Windows object at 0x000000000C6D3F98> -> <airtest.core.win.win.Windows object at 0x000000000C68EF28>
+2020-09-11 14:59:35,759 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS.png)
+2020-09-11 14:59:36,236 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_menu.png)
+2020-09-11 14:59:38,027 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_limits.png)
+2020-09-11 14:59:39,863 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_speed_limit.png)
+2020-09-11 14:59:43,168 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\hfs_http_server.py[line:46] - INFO: set_hfs_limit success
+2020-09-11 14:59:43,766 - C:\Python36\lib\site-packages\airtest\core\api.py[line:36] - WARNING: Device:None updated <airtest.core.win.win.Windows object at 0x000000000C68EF28> -> <airtest.core.win.win.Windows object at 0x000000000CF90080>
+2020-09-11 14:59:43,766 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS.png)
+2020-09-11 14:59:44,198 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_menu.png)
+2020-09-11 14:59:45,983 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_limits.png)
+2020-09-11 14:59:47,873 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_speed_limit.png)
+2020-09-11 14:59:51,236 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\hfs_http_server.py[line:46] - INFO: set_hfs_limit success
+2020-09-11 14:59:51,570 - C:\Python36\lib\site-packages\airtest\core\api.py[line:36] - WARNING: Device:None updated <airtest.core.win.win.Windows object at 0x000000000CF90080> -> <airtest.core.win.win.Windows object at 0x000000000DA070B8>
+2020-09-11 14:59:51,570 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS.png)
+2020-09-11 14:59:52,067 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_menu.png)
+2020-09-11 14:59:53,879 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_ip_address.png)
+2020-09-11 14:59:55,717 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_speed_external_ip.png)
+2020-09-11 14:59:56,552 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\hfs_http_server.py[line:104] - INFO: set_hfs_external_network success
+2020-09-11 14:59:56,878 - C:\Python36\lib\site-packages\airtest\core\api.py[line:36] - WARNING: Device:None updated <airtest.core.win.win.Windows object at 0x000000000DA070B8> -> <airtest.core.win.win.Windows object at 0x000000000D9E9860>
+2020-09-11 14:59:56,878 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS.png)
+2020-09-11 14:59:57,314 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_port_80.png)
+2020-09-11 14:59:59,882 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_switch_off.png)
+2020-09-11 15:00:00,295 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\hfs_http_server.py[line:66] - INFO: set_hfs_switch_off success
+2020-09-11 15:00:00,615 - C:\Python36\lib\site-packages\airtest\core\api.py[line:36] - WARNING: Device:None updated <airtest.core.win.win.Windows object at 0x000000000D9E9860> -> <airtest.core.win.win.Windows object at 0x000000000C68EF28>
+2020-09-11 15:00:00,616 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS.png)
+2020-09-11 15:00:01,055 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_switch_off.png)
+2020-09-11 15:00:03,633 - C:\Python36\lib\site-packages\airtest\core\cv.py[line:56] - INFO: Try finding:
+Template(C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\./images/HFS_port_80.png)
+2020-09-11 15:00:04,084 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\hfs_http_server.py[line:88] - INFO: set_hfs_switch_on success
+2020-09-11 15:00:28,137 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:36] - INFO: set_parameter_wep success
+2020-09-11 15:00:53,753 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:57] - INFO: set_parameter_wpa success
+2020-09-11 15:01:19,219 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:78] - INFO: set_parameter_wpa2 success
+2020-09-11 15:01:44,522 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:99] - INFO: set_parameter_wpa_wpa2 success
+2020-09-11 15:02:16,103 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:122] - INFO: set_parameter_802_11n success
+2020-09-11 15:02:46,279 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:145] - INFO: set_parameter_802_11b_g success
+2020-09-11 15:03:10,231 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:167] - INFO: set_wifi_ap_on success
+2020-09-11 15:03:34,732 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:196] - INFO: set_wifi_ap_off fail
+2020-09-11 15:04:36,171 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:193] - INFO: set_wifi_ap_off success
+2020-09-11 15:05:16,343 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:167] - INFO: set_wifi_ap_on success
+2020-09-11 15:05:40,360 - C:\Users\ivan.zhao\PycharmProjects\wifi_network_server\wifi_chrome.py[line:193] - INFO: set_wifi_ap_off success
